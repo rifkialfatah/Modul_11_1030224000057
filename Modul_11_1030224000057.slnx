@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="AljabarLibraries/AljabarLibraries.csproj" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+</Solution>
